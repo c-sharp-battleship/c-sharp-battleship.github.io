@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['defenseboard_2ecs_0',['DefenseBoard.cs',['../DefenseBoard_8cs.html',1,'']]],
-  ['defensegrid_2ecs_1',['DefenseGrid.cs',['../DefenseGrid_8cs.html',1,'']]]
+  ['maincanvas_2ecs_0',['MainCanvas.cs',['../MainCanvas_8cs.html',1,'']]],
+  ['mainwindow_2examl_2ecs_1',['MainWindow.xaml.cs',['../MainWindow_8xaml_8cs.html',1,'']]]
 ];

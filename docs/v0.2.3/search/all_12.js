@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['username_0',['username',['../classBattleship_1_1CoreComponents_1_1Player.html#a6165ad896d063161a0d9048fe137566c',1,'Battleship::CoreComponents::Player']]]
+  ['ycoordinate_0',['yCoordinate',['../classBattleship_1_1CoreComponents_1_1Coordinate.html#a4c44c4b6d7297d91d02ce1ca82d8929e',1,'Battleship::CoreComponents::Coordinate']]]
 ];

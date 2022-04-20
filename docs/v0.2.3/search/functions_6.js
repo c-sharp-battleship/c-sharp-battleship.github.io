@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['player_0',['Player',['../classBattleship_1_1CoreComponents_1_1Player.html#ad6e30b4cfd6d128e87e233c5cdfa1a75',1,'Battleship::CoreComponents::Player']]]
+  ['quitbutton_5fclick_0',['QuitButton_Click',['../classBattleship_1_1GUIComponents_1_1MainWindow.html#a8e0e1fd6c355ac4960919a07921b06c4',1,'Battleship::GUIComponents::MainWindow']]]
 ];

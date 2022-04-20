@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['aboutbutton_0',['AboutButton',['../classBattleship_1_1GUIComponents_1_1MainWindow.html#af605f70fd725cac30c45f78ff003823b',1,'Battleship::GUIComponents::MainWindow']]]
+  ['carriership_0',['carrierShip',['../classBattleship_1_1CoreComponents_1_1DefenseBoard.html#abc6a7d0911103f38fbcd4a9bedfe41ee',1,'Battleship::CoreComponents::DefenseBoard']]],
+  ['coordinatestatus_1',['coordinateStatus',['../classBattleship_1_1CoreComponents_1_1AttackCoordinate.html#a1c18a1586435e46dd37f28169cc7fc39',1,'Battleship::CoreComponents::AttackCoordinate']]],
+  ['cruisership_2',['cruiserShip',['../classBattleship_1_1CoreComponents_1_1DefenseBoard.html#aa3817f860038c8927d6f567336703c23',1,'Battleship::CoreComponents::DefenseBoard']]]
 ];
