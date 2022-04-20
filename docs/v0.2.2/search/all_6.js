@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['end_5fgame_0',['END_GAME',['../classBattleship_1_1StatusCodes.html#a386b824bd97ee20dd865e7025a997337ac7ed025810ce783156158c9fc62bf75e',1,'Battleship::StatusCodes']]],
-  ['exit_5fbtn_1',['Exit_btn',['../classBattleship_1_1GUIComponents_1_1SetWindow.html#a9b7ff5c61183c660db058a743b6c7ae2',1,'Battleship::GUIComponents::SetWindow']]],
-  ['exit_5fbtn_5fclick_2',['Exit_btn_Click',['../classBattleship_1_1GUIComponents_1_1SetWindow.html#a3d600b105d081763b28e1d6f05f5b711',1,'Battleship::GUIComponents::SetWindow']]]
+  ['game_0',['Game',['../classBattleship_1_1CoreComponents_1_1Game.html',1,'Battleship.CoreComponents.Game'],['../classBattleship_1_1CoreComponents_1_1Game.html#a67769ca6bdfa80bf5c724a30b5cf51e8',1,'Battleship.CoreComponents.Game.Game()']]],
+  ['game_2ecs_1',['Game.cs',['../Game_8cs.html',1,'']]],
+  ['getattackstatus_2',['GetAttackStatus',['../classBattleship_1_1CoreComponents_1_1AttackCoordinate.html#a9c8d6ebc8f2eaab7699fd6e41e9b0fac',1,'Battleship::CoreComponents::AttackCoordinate']]],
+  ['getid_3',['GetID',['../classBattleship_1_1CoreComponents_1_1Game.html#a3982d3696418552daffeb6b64c6263ed',1,'Battleship::CoreComponents::Game']]]
 ];

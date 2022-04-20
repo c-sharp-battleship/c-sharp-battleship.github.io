@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['left_5fcomp_5fparentleft_0',['Left_Comp_ParentLeft',['../classBattleship_1_1GUIComponents_1_1CustomButton.html#a1dcec60e0092ef79ce6c8cd2118c9f1a',1,'Battleship::GUIComponents::CustomButton']]],
-  ['left_5fto_5fparentleft_1',['Left_To_ParentLeft',['../classBattleship_1_1GUIComponents_1_1CustomButton.html#a2b8933e5dea03abd25ffd155d59d37ee',1,'Battleship::GUIComponents::CustomButton']]],
-  ['length_2',['length',['../classBattleship_1_1CoreComponents_1_1Ship.html#a529b25d4eb600df73fa06f7471778dba',1,'Battleship::CoreComponents::Ship']]]
+  ['name_5f_0',['Name_',['../classBattleship_1_1GUIComponents_1_1CustomButton.html#a00c615a33365f18ba5cb2fe36bc8b469',1,'Battleship::GUIComponents::CustomButton']]],
+  ['not_5fattacked_1',['NOT_ATTACKED',['../classBattleship_1_1StatusCodes.html#a0963d38ca9128ad3b7cf3212b2e2bf05a3818c38979e5640bf18c6a7adf8f628f',1,'Battleship::StatusCodes']]]
 ];

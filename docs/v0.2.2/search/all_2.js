@@ -1,22 +1,12 @@
 var searchData=
 [
-  ['aboutbutton_0',['AboutButton',['../classBattleship_1_1GUIComponents_1_1MainWindow.html#af605f70fd725cac30c45f78ff003823b',1,'Battleship::GUIComponents::MainWindow']]],
-  ['aboutbutton_5fclick_1',['AboutButton_Click',['../classBattleship_1_1GUIComponents_1_1MainWindow.html#af9ac65e14f8cfa8c65af9b329fea3071',1,'Battleship::GUIComponents::MainWindow']]],
-  ['aboutwindow_2',['AboutWindow',['../classBattleship_1_1GUIComponents_1_1AboutWindow.html#a3cfe80f80297c4f762b4634c6e992224',1,'Battleship.GUIComponents.AboutWindow.AboutWindow()'],['../classBattleship_1_1GUIComponents_1_1AboutWindow.html',1,'Battleship.GUIComponents.AboutWindow']]],
-  ['aboutwindow_2eg_2ecs_3',['AboutWindow.g.cs',['../AboutWindow_8g_8cs.html',1,'']]],
-  ['aboutwindow_2eg_2ei_2ecs_4',['AboutWindow.g.i.cs',['../AboutWindow_8g_8i_8cs.html',1,'']]],
-  ['aboutwindow_2examl_2ecs_5',['AboutWindow.xaml.cs',['../AboutWindow_8xaml_8cs.html',1,'']]],
-  ['app_6',['App',['../classBattleship_1_1App.html',1,'Battleship']]],
-  ['app_2eg_2ecs_7',['App.g.cs',['../App_8g_8cs.html',1,'']]],
-  ['app_2eg_2ei_2ecs_8',['App.g.i.cs',['../App_8g_8i_8cs.html',1,'']]],
-  ['app_2examl_2ecs_9',['App.xaml.cs',['../App_8xaml_8cs.html',1,'']]],
-  ['applicationstatus_10',['ApplicationStatus',['../classBattleship_1_1StatusCodes.html#a386b824bd97ee20dd865e7025a997337',1,'Battleship::StatusCodes']]],
-  ['assemblyinfo_2ecs_11',['AssemblyInfo.cs',['../AssemblyInfo_8cs.html',1,'']]],
-  ['attackboard_12',['AttackBoard',['../classBattleship_1_1CoreComponents_1_1AttackBoard.html#ad614a40f0693f750c05d194363962a2e',1,'Battleship.CoreComponents.AttackBoard.AttackBoard()'],['../classBattleship_1_1CoreComponents_1_1AttackBoard.html',1,'Battleship.CoreComponents.AttackBoard']]],
-  ['attackboard_2ecs_13',['AttackBoard.cs',['../AttackBoard_8cs.html',1,'']]],
-  ['attackcoordinate_14',['AttackCoordinate',['../classBattleship_1_1CoreComponents_1_1AttackCoordinate.html#af662aca256b9b8e0d3975da88f7d34ae',1,'Battleship.CoreComponents.AttackCoordinate.AttackCoordinate()'],['../classBattleship_1_1CoreComponents_1_1AttackCoordinate.html#a6a8d8faafdf28f5f883ee10d52bacb80',1,'Battleship.CoreComponents.AttackCoordinate.AttackCoordinate(StatusCodes.AttackStatus attackStatus)'],['../classBattleship_1_1CoreComponents_1_1AttackCoordinate.html#a92f8be0703016bd850f294240252ddf7',1,'Battleship.CoreComponents.AttackCoordinate.AttackCoordinate(StatusCodes.AttackStatus attackStatus, short xCoordinate, short yCoordinate)'],['../classBattleship_1_1CoreComponents_1_1AttackCoordinate.html',1,'Battleship.CoreComponents.AttackCoordinate']]],
-  ['attackcoordinate_2ecs_15',['AttackCoordinate.cs',['../AttackCoordinate_8cs.html',1,'']]],
-  ['attacked_5fhit_16',['ATTACKED_HIT',['../classBattleship_1_1StatusCodes.html#a0963d38ca9128ad3b7cf3212b2e2bf05ac72a1e24c34a3ea8fc0500f17f6c493a',1,'Battleship::StatusCodes']]],
-  ['attacked_5fnot_5fhit_17',['ATTACKED_NOT_HIT',['../classBattleship_1_1StatusCodes.html#a0963d38ca9128ad3b7cf3212b2e2bf05afabc18ba48276a87d3e1de5e2d583bdf',1,'Battleship::StatusCodes']]],
-  ['attackstatus_18',['AttackStatus',['../classBattleship_1_1StatusCodes.html#a0963d38ca9128ad3b7cf3212b2e2bf05',1,'Battleship::StatusCodes']]]
+  ['canvacreate_5fclick_0',['CanvaCreate_Click',['../classBattleship_1_1GUIComponents_1_1SetWindow.html#a531fb2cbc0819b7be214442f0907650c',1,'Battleship::GUIComponents::SetWindow']]],
+  ['carriership_1',['carrierShip',['../classBattleship_1_1CoreComponents_1_1DefenseBoard.html#abc6a7d0911103f38fbcd4a9bedfe41ee',1,'Battleship::CoreComponents::DefenseBoard']]],
+  ['closebutton_5fclick_2',['CloseButton_Click',['../classBattleship_1_1GUIComponents_1_1AboutWindow.html#afab3ad43c9bae06340dc6d44a61ded35',1,'Battleship::GUIComponents::AboutWindow']]],
+  ['coordinate_3',['Coordinate',['../classBattleship_1_1CoreComponents_1_1Coordinate.html',1,'Battleship.CoreComponents.Coordinate'],['../classBattleship_1_1CoreComponents_1_1Coordinate.html#a48d35d41c4d7c1093d16c4c9983b122e',1,'Battleship.CoreComponents.Coordinate.Coordinate()'],['../classBattleship_1_1CoreComponents_1_1Coordinate.html#ace172843ea27f99b185a134f6f754f6b',1,'Battleship.CoreComponents.Coordinate.Coordinate(short xCoordinate, short yCoordinate)']]],
+  ['coordinate_2ecs_4',['Coordinate.cs',['../Coordinate_8cs.html',1,'']]],
+  ['coordinatestatus_5',['coordinateStatus',['../classBattleship_1_1CoreComponents_1_1AttackCoordinate.html#a1c18a1586435e46dd37f28169cc7fc39',1,'Battleship::CoreComponents::AttackCoordinate']]],
+  ['cruisership_6',['cruiserShip',['../classBattleship_1_1CoreComponents_1_1DefenseBoard.html#aa3817f860038c8927d6f567336703c23',1,'Battleship::CoreComponents::DefenseBoard']]],
+  ['custombutton_7',['CustomButton',['../classBattleship_1_1GUIComponents_1_1CustomButton.html',1,'Battleship.GUIComponents.CustomButton'],['../classBattleship_1_1GUIComponents_1_1CustomButton.html#a3a2905d74914b0db54602478c0b45b7f',1,'Battleship.GUIComponents.CustomButton.CustomButton(double PassID, int PassPlayerNumber, string myname)'],['../classBattleship_1_1GUIComponents_1_1CustomButton.html#a8277bfe8ac41afbf6b85a8b89e42fab0',1,'Battleship.GUIComponents.CustomButton.CustomButton(object anybutton)']]],
+  ['custombutton_2ecs_8',['CustomButton.cs',['../CustomButton_8cs.html',1,'']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['destroyership_0',['destroyerShip',['../classBattleship_1_1CoreComponents_1_1DefenseBoard.html#a2ba443272d47a7be13b8e4ade7138d3e',1,'Battleship::CoreComponents::DefenseBoard']]]
+  ['hitcoords_0',['hitCoords',['../classBattleship_1_1CoreComponents_1_1AttackBoard.html#a41aff5c49b44f24d27eddf155e654b3d',1,'Battleship::CoreComponents::AttackBoard']]]
 ];
